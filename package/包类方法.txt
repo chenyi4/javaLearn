@@ -1,0 +1,9 @@
+1.编译javac Animal.java
+
+2.生成 Animal.class 文件
+
+3.把Animal.class 放进文件夹animals
+
+4.运行 java animals/Animal 
+
+5.编译成功
