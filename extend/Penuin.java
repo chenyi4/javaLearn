@@ -4,7 +4,7 @@ class Animal{
     public Animal(){
         System.out.println("this is constructor");  //constructor 
     }
-    
+
     void setName() {  //吃东西方法的具体实现  
         this.name = "format";
         this.testString = "aaaaa";
@@ -16,6 +16,7 @@ class Dog extends Animal {
     void setName() {  //吃东西方法的具体实现  
           System.out.println("my Name is Dog");   
     }
+    
     void ask(){
         this.setName();
         super.setName();
