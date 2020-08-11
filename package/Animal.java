@@ -1,7 +1,6 @@
 package animals;
-
-public class Animal{
-    public static void main(String args[]){
-        System.out.println("Mammal eats");
-    }
+ 
+interface Animal {
+   public void eat();
+   public void travel();
 }

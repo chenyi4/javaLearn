@@ -1,0 +1,5 @@
+$ mkdir animals
+$ cp Animal.class  MammalInt.class animals
+$ java animals/MammalInt
+Mammal eats
+Mammal travel
